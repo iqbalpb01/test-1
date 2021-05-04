@@ -12,5 +12,5 @@ say something
 # Aquib Test
 say something
 
-# iqbal
-hi I'm iqbal
+# Iqbal
+Hi I'm Iqbal
